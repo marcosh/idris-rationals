@@ -1,0 +1,9 @@
+package rationals
+
+modules =
+  NonZeroInt,
+  Rationals
+  
+sourcedir = src
+
+pkgs = contrib
